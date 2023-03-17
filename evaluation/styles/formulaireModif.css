@@ -1,0 +1,6 @@
+.card-body{
+    height: 150px !important;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: space-around;
+}
